@@ -3,7 +3,7 @@ export default function Footer() {
     <div className="bg-mainBlue text-mainWhite p-2 md:p-4">
       <div className="flex flex-col items-center justify-center gap-3 text-center py-2 md:grid md:grid-cols-2 md:p-5 lg:grid-cols-4">
         <div className="flex-col md:flex items-center justify-center gap-2 hidden">
-          <img className="w-1/3 rounded-md md:w-1/2 lg:w-1/2" src="/src/assets/logo-completa.png" alt="Logotipo" />
+          <img className="w-1/3 rounded-md md:w-1/2 lg:w-1/2" src="/assets/logo-completa.png" alt="Logotipo" />
           <p className="hidden lg:block text-base lg:text-lg">Defendemos seus interesses com dedicação e ética, trazendo soluções claras e eficientes para seus desafios jurídicos.</p>
         </div>
 

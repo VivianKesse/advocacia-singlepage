@@ -21,7 +21,7 @@ export default function Header() {
                 <a href="/">
                   <img
                     className="w-1/3 md:w-[25%] lg:w-1/2 rounded-sm"
-                    src="src/assets/silvacosta.png"
+                    src="/assets/silvacosta.png"
                     alt="Logotipo"
                   />
                 </a>
